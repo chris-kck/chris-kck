@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+❯ 🌎 Website           kck.co.zw
+❯ 👔 Résumé            linkedin.com/in/kcck
+
+❯ 💬 Ask me about Electrical and Computer Engineering
+❯ 😄 Pronouns: IT
+❯ 🌱 I’m currently learning BE & FE Software Engineering
