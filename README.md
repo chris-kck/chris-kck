@@ -10,7 +10,7 @@
 ❯ ⚡ Fun fact: Started using the internet in the Dial-up era. <br>
 ❯ 😄 Pronouns: IT <br>
 
-❯ 👯 I’m looking to collaborate on TS/PY Open Source projects.
+❯ 👯 I’m looking to collaborate on TS/PY Open Source projects.<br>
 ❯ 🤔 I’m looking for help with advancing my DevOps knowledge.
 
 <div align="center"> 
