@@ -1,5 +1,4 @@
-- 👯 I’m looking to collaborate on TS/PY Open Source projects.
-- 🤔 I’m looking for help with advancing my DevOps knowlledge.
+
 
 
 ### Makadii henyu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" alt="hi">
@@ -11,6 +10,9 @@
 ❯ ⚡ Fun fact: Started using the internet in the Dial-up era. <br>
 ❯ 😄 Pronouns: IT <br>
 
+❯ 👯 I’m looking to collaborate on TS/PY Open Source projects.
+❯ 🤔 I’m looking for help with advancing my DevOps knowledge.
+
 <div align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/chris-kck/count.svg" />
@@ -20,7 +22,7 @@
 
 <div align="left">
 <h2>Currently working with</h2>
-  <img src="https://skillicons.dev/icons?i=aws,react,nextjs,tailwind,postgres,postman,git,github,bash,linux,nginx,idea,js,ts,tailwind,vercel,py,ai,jest.regex&perline=7">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,py,jest,regex,tailwind,nextjs,postgres,postman,linux,bash,git,nginx,idea,ai,vercel,aws,github&perline=7">
 </div>
 
 <div align="left">
