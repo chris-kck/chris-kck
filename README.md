@@ -1,8 +1,6 @@
+- 👯 I’m looking to collaborate on TS/PY Open Source projects.
+- 🤔 I’m looking for help with advancing my DevOps knowlledge.
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
 
 ### Makadii henyu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24" alt="hi">
 
@@ -22,12 +20,12 @@
 
 <div align="left">
 <h2>Currently working with</h2>
-  <img src="https://skillicons.dev/icons?i=aws,react,nextjs,tailwind,postgres,postman,git,github,html,idea,js,ts,py&perline=7">
+  <img src="https://skillicons.dev/icons?i=aws,react,nextjs,tailwind,postgres,postman,git,github,bash,linux,nginx,idea,js,ts,tailwind,vercel,py,ai,jest.regex&perline=7">
 </div>
 
 <div align="left">
 <h2>Previously worked with</h2>
-<img src="https://skillicons.dev/icons?i=c,cpp,docker,bash,cmake,django,express,figma,linux,mongo,mysql,nginx,nodejs,sqlite,sentry,sequelize,raspberrypi,wordpress&perline=7">
+<img src="https://skillicons.dev/icons?i=c,cpp,docker,matlab,cmake,django,express,figma,linux,mongo,mysql,nodejs,sqlite,sentry,sequelize,raspberrypi,wordpress,jquery,pnpm&perline=7">
 </div>
 
 <div align="left">
@@ -42,7 +40,7 @@
 <h2 align="center">⚡️ More about my coding life</h2>
 <br />
 <p align="center" style="display:inline">
-  <img src ="https://github-readme-stats.vercel.app/api?username=chris-kck&show_icons=true&count_private=true&theme=darcula&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-kck&layout=compact&hide=objective-c&theme=darcula&bg_color=00000000&langs_count=10" width=40%>
+  <img src ="https://github-readme-stats.vercel.app/api?username=chris-kck&show_icons=true&count_private=true&theme=gruvbox_light&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-kck&layout=compact&hide=objective-c,html&theme=gruvbox_light&bg_color=00000000&langs_count=10" width=40%>
 </p>
 <!-- </details> -->
