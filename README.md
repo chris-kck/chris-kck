@@ -15,8 +15,8 @@
 
 <div align="center"> 
   Visitors count<br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chris.kck.visitors&left_color=red&right_color=green&left_text=Visitor%20Number%3A" />
   </div>
-  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chris.kck.visitors&left_color=red&right_color=green&left_text=Visitor%20Number%3A)
 
 
 
