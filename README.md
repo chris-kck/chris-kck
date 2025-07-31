@@ -15,7 +15,7 @@
 
 <div align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/chris-kck/count.svg" />
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=chris.kck.visitors&left_color=red&right_color=green&left_text=Visitor%20Number%3A)
 </div>
 
 
