@@ -5,9 +5,9 @@
 
 ❯ 🌎 Website           <a href="https://kck.co.zw"> kck.co.zw </a> <br>
 ❯ 👔 Résumé            <a href="https://linkedin.com/in/kcck"> LinkedIn</a> <br>
-❯ 💬 Ask me about Electrical and Computer Engineering <br>
-❯ 🌱 I’m currently learning BE & FE Software Engineering <br>
-❯ ⚡ Fun fact: Started using the internet in the Dial-up era. <br>
+❯ 💬 Ask me anything about Electrical and Computer Engineering <br>
+❯ 🌱 I’m mastering cross platform mobile development and advocating for AI-assisted productivity. <br>
+❯ ⚡ Fun fact: Started using the internet in the Dial-up era. So that dial up tone is stuck in my brain. <br>
 ❯ 😄 Pronouns: IT <br>
 
 ❯ 👯 I’m looking to collaborate on TS/PY Open Source projects.<br>
